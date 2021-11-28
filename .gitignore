@@ -1,0 +1,18 @@
+*.txt
+.idea/*
+.~lock.VI_readme.docx#
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+img/
+result/
+env.bak/
+venv.bak/
+img/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
